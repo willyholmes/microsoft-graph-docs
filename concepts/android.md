@@ -19,7 +19,7 @@ To use Microsoft Graph in your app for Android, you need to show the Microsoft s
 
 To get started, you'll need: 
 
-- A [Microsoft account](https://www.outlook.com/) or a [work or school account](http://dev.office.com/devprogram)
+- A [Microsoft account](https://www.outlook.com/) or a [work or school account](https://aka.ms/o365devprogram)
 - Android Studio 2.0 or newer version
 
 
