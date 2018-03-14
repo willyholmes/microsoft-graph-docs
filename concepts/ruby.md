@@ -19,7 +19,7 @@ To get started, you'll need:
 - Rails framework (the sample has been tested on Rails 4.2).
 - Bundler dependency manager.
 - Rack web server interface for Ruby.
-- A [Microsoft account](https://www.outlook.com/) or a [work or school account](https://aka.ms/o365devprogram)
+- A [Microsoft account](https://www.outlook.com/) or a [work or school account](https://developer.microsoft.com/en-us/office/dev-program)
 - The Microsoft Graph Connect Starter Project for Ruby on Rails. Download the [Microsoft Graph Ruby on Rails Connect Sample](https://github.com/microsoftgraph/ruby-connect-rest-sample). The starter project is located in the _starter_ folder.
 
 
