@@ -602,3 +602,4 @@ Check the Inbox of the email address that you configured in [Call Microsoft Grap
 - [Get access tokens to call Microsoft Graph](https://developer.microsoft.com/en-us/graph/docs/concepts/auth_overview)
 - [Get access on behalf of a user](https://developer.microsoft.com/en-us/graph/docs/concepts/auth_v2_user)
 - [Get access without a user](https://developer.microsoft.com/en-us/graph/docs/concepts/auth_v2_service)
+- [Office 365 Developer Program setup docs](https://docs.microsoft.com/en-us/office/developer-program/office-365-developer-program)

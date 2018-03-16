@@ -209,3 +209,4 @@ The app calls Microsoft Graph to get user information and to send an email on th
 - [Azure AD v2.0 protocols](https://azure.microsoft.com/en-us/documentation/articles/active-directory-v2-protocols/)
 - [Azure AD v2.0 tokens](https://azure.microsoft.com/en-us/documentation/articles/active-directory-v2-tokens/)
 - [Microsoft Graph JavaScript SDK Node.js Connect sample](https://github.com/microsoftgraph/nodejs-connect-sample)
+- [Office 365 Developer Program setup docs](https://docs.microsoft.com/en-us/office/developer-program/office-365-developer-program)

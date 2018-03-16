@@ -287,5 +287,6 @@ Finally, the code uses the HTTP response code returned to notify the user whethe
 ## See also
 - Try out the REST API using the [Graph explorer](https://developer.microsoft.com/graph/graph-explorer).
 - Explore our other [Microsoft Graph samples](https://github.com/microsoftgraph) on GitHub.
+- Join the [Office 365 Developer Program](https://docs.microsoft.com/en-us/office/developer-program/office-365-developer-program)
 
 
